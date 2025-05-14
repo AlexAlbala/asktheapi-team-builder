@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/asktheapi-asktheapi-team-builder-badge.png)](https://mseep.ai/app/asktheapi-asktheapi-team-builder)
+
 # AskTheApi Team Builder
 
 [![PyPI version](https://badge.fury.io/py/asktheapi-team-builder.svg)](https://badge.fury.io/py/asktheapi-team-builder)
